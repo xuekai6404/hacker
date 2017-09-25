@@ -6,7 +6,7 @@ Gem::Specification.new do |s|
   s.license       = "CC0-1.0"
   s.authors       = ["Jason Costello", "GitHub, Inc."]
   s.email         = ["opensource+jekyll-theme-hacker@github.com"]
-  s.homepage      = "https://xuekai6404.github.io"
+  s.homepage      = "https://github.com/xuekai6404/xuekai6404.github.io"
   s.summary       = "Hacker is a Jekyll theme for GitHub Pages"
 
   s.files         = `git ls-files -z`.split("\x0").select do |f|
